@@ -24,3 +24,10 @@ if err != nil {
 
 fmt.Println(consentString)
 ```
+
+The generated consent string can be tested and validated with
+github.com/LiveRamp/iabconsent
+
+Or
+
+https://useless.af/consent-decoder
